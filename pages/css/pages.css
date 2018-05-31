@@ -9,13 +9,21 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
-}
 
-img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
-}
+
 
 /* Voeg jouw css hieraan toe */
+
+}
+
+
+
+img {
+    max-width: 50%; 
+}
+
+
+
 
 nav{
         
@@ -45,21 +53,22 @@ nav{
 
 
 
-
-  h2 {
+  h4 {
         
     background-image: linear-gradient( rgb(255, 0, 0) 0%, rgb(255, 0, 0) 100%);
     height: 850px;
     width: 250px;
     text-align: center;
+    padding: 20px;
+   
     
     
   }
 
-  h2 li{
+  h4 li{
     display: vertical;
   }
- h2 li a{
+ h4 li a{
     color: #fff;
     text-decoration: none;
     font-size: 16px;
@@ -67,8 +76,14 @@ nav{
     display: block;
     padding: 30px 15px;
     transition: .5s;
+    margin-top:  80px;
   }
-  h2 li a:hover {
+
+
+
+
+  
+  h4 li a:hover {
     background: rgb(29, 3, 90);
   }
 

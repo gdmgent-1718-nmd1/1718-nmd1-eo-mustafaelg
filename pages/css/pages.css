@@ -219,3 +219,24 @@ p{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
 }
+
+#fb{
+  width: 150px;
+  position: relative;
+  top: 80px;
+  left: 80px 
+}
+
+#instagram{
+  width: 150px;
+  position: relative;
+  top: -15px;
+  left: 160px 
+}
+
+#twiter{
+  width: 146px;
+  position: relative;
+  top: -110px;
+  left: 240px;
+}
